@@ -7,7 +7,8 @@ This document proposes a structuring for code for a system of services based on 
 - with consideration of Thor's technical stack
 
 ## Architectural Diagram
-The diagram below shows the general layout of the onion architecture. Persistence layer, application layer, domain layer and domain entities layer are located from outer circle to inner circle.
+The diagram below shows the general layout of the onion architecture. Persistence layer, application layer, domain layer and domain entities layer are located from outer circle to inner circle. 
+
 &nbsp;
 ![](./images/the_onion.png)
 
