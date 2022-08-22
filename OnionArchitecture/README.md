@@ -8,6 +8,7 @@ This document proposes a structuring for code for a system of services based on 
 
 ## Architectural Diagram
 The diagram below shows the general layout of the onion architecture. Persistence layer, application layer, domain layer and domain entities layer are located from outer circle to inner circle.
+&nbsp;
 ![](./images/the_onion.png)
 
 The following diagram shows the inside of each layer and the dependency between each layer.
